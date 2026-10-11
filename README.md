@@ -6,13 +6,19 @@ A tiny utility to **avoid opening the downloads folder** every time.
 
 I was **very tired** of having to open the download folder every single time. There are programs, such as **Fences from Stardock** that do something similar, but I just needed a simple flyout, showing what's in the **downloads folder**.
 
+I hope that it is going to be helpful to other people.
+
+## Contribution
+
+Anyone that wants to improve it, add features to it, modify it, is welcome to do so. I will check the repo from time to time to see if any merge request is pending.
+
 ## Functionalities
 What can you expect from this tiny utility:
 
-1. Right click **context menu**
-2. Open in explorer button
-3. Start with windows option
-4. Light/Dark theme recognition
+1. **Context menu**
+2. **Open in explorer** button
+3. **Start with windows** option
+4. **Light/Dark** theme recognition
 
 ## How to install
 
@@ -24,3 +30,4 @@ What can you expect from this tiny utility:
 6. Enjoy
 
 ## Screenshots
+![Alt text](https://github.com/oneegiri/Windows-Downloads-Flyout/blob/main/screenshot.png "Screenshot")
